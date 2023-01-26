@@ -2,6 +2,7 @@
 RainbowHAT-HD News ticker style readout for PiHole
 
 I found some old Python 2 code for the e-ink displays just as I was beginning to both set up a PiHole server and learn Python.
+Fast forward a few months and now it's suddenly a Pimoroni RainbowHAT-HD, because I'm way worse with money than Python.
 I'm sure this code is an absolute mess, if you can offer suggestions to streamline it they're welcome.
 I'd prefer to keep the AI ChatBot's hands off my code though, let's do this like it's 1985. 
 
